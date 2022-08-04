@@ -41,9 +41,11 @@ namespace MMAGlobal.Infrastructure.Repositories.Base
             return await _MMAGlobalTestContext.Set<T>().FindAsync(id);
         }
 
-        public Task UpdateAsync(T entity)
+        public async Task UpdateAsync(T entity)
         {
-            throw new NotImplementedException();
+            await  _MMAGlobalTestContext.Set<T>().AddAsync(entity);
+            _MMAGlobalTestContext.Entry(entity).State = EntityState.Modified;
+            await _MMAGlobalTestContext.SaveChangesAsync();
         }
     }
 }
