@@ -1,0 +1,12 @@
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Core\bin\Debug\net5.0\MMAGlobal.Core.deps.json
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Core\bin\Debug\net5.0\MMAGlobal.Core.dll
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Core\bin\Debug\net5.0\ref\MMAGlobal.Core.dll
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Core\bin\Debug\net5.0\MMAGlobal.Core.pdb
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Core\obj\Debug\net5.0\MMAGlobal.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Core\obj\Debug\net5.0\MMAGlobal.Core.AssemblyInfoInputs.cache
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Core\obj\Debug\net5.0\MMAGlobal.Core.AssemblyInfo.cs
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Core\obj\Debug\net5.0\MMAGlobal.Core.csproj.CoreCompileInputs.cache
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Core\obj\Debug\net5.0\MMAGlobal.Core.dll
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Core\obj\Debug\net5.0\ref\MMAGlobal.Core.dll
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Core\obj\Debug\net5.0\MMAGlobal.Core.pdb
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Core\obj\Debug\net5.0\MMAGlobal.Core.csproj.AssemblyReference.cache

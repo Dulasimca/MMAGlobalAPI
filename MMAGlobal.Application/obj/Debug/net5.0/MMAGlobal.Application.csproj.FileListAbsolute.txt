@@ -1,0 +1,17 @@
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\bin\Debug\net5.0\MMAGlobal.Application.deps.json
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\bin\Debug\net5.0\MMAGlobal.Application.dll
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\bin\Debug\net5.0\ref\MMAGlobal.Application.dll
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\bin\Debug\net5.0\MMAGlobal.Application.pdb
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\bin\Debug\net5.0\MMAGlobal.Core.dll
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\bin\Debug\net5.0\MMAGlobal.Core.pdb
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\obj\Debug\net5.0\MMAGlobal.Application.csproj.AssemblyReference.cache
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\obj\Debug\net5.0\MMAGlobal.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\obj\Debug\net5.0\MMAGlobal.Application.AssemblyInfoInputs.cache
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\obj\Debug\net5.0\MMAGlobal.Application.AssemblyInfo.cs
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\obj\Debug\net5.0\MMAGlobal.Application.csproj.CoreCompileInputs.cache
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\obj\Debug\net5.0\MMAGlobal.Application.csproj.CopyComplete
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\obj\Debug\net5.0\MMAGlobal.Application.dll
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\obj\Debug\net5.0\ref\MMAGlobal.Application.dll
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\obj\Debug\net5.0\MMAGlobal.Application.pdb
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\bin\Debug\net5.0\MMAGlobal.Infrastructure.dll
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\bin\Debug\net5.0\MMAGlobal.Infrastructure.pdb
