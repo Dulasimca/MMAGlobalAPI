@@ -15,3 +15,5 @@ E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MM
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\obj\Debug\net5.0\MMAGlobal.Application.pdb
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\bin\Debug\net5.0\MMAGlobal.Infrastructure.dll
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\bin\Debug\net5.0\MMAGlobal.Infrastructure.pdb
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\bin\Debug\net5.0\MMAGlobal.CommonUtilities.dll
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.Application\bin\Debug\net5.0\MMAGlobal.CommonUtilities.pdb

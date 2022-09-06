@@ -1518,6 +1518,16 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "MMAGlobal.CommonUtilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MMAGlobal.CommonUtilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MMAGlobal.CommonUtilities.dll": {}
+        }
+      },
       "MMAGlobal.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -1532,6 +1542,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "MMAGlobal.CommonUtilities": "1.0.0",
           "MMAGlobal.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.8",
           "Microsoft.EntityFrameworkCore.InMemory": "5.0.8",
@@ -5841,6 +5852,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "MMAGlobal.CommonUtilities/1.0.0": {
+      "type": "project",
+      "path": "../MMAGlobal.CommonUtilities/MMAGlobal.CommonUtilities.csproj",
+      "msbuildProject": "../MMAGlobal.CommonUtilities/MMAGlobal.CommonUtilities.csproj"
+    },
     "MMAGlobal.Core/1.0.0": {
       "type": "project",
       "path": "../MMAGlobal.Core/MMAGlobal.Core.csproj",
@@ -5856,6 +5872,7 @@
     "net5.0": [
       "AutoMapper >= 10.1.1",
       "FluentValidation >= 10.3.0",
+      "MMAGlobal.CommonUtilities >= 1.0.0",
       "MMAGlobal.Core >= 1.0.0",
       "MMAGlobal.Infrastructure >= 1.0.0",
       "MediatR >= 9.0.0"
@@ -5896,6 +5913,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "E:\\TestandVerification\\Projects\\Media\\MMAGlobalAPI\\MMAGlobalCleanArchitecture\\MMAGlobal.CommonUtilities\\MMAGlobal.CommonUtilities.csproj": {
+              "projectPath": "E:\\TestandVerification\\Projects\\Media\\MMAGlobalAPI\\MMAGlobalCleanArchitecture\\MMAGlobal.CommonUtilities\\MMAGlobal.CommonUtilities.csproj"
+            },
             "E:\\TestandVerification\\Projects\\Media\\MMAGlobalAPI\\MMAGlobalCleanArchitecture\\MMAGlobal.Core\\MMAGlobal.Core.csproj": {
               "projectPath": "E:\\TestandVerification\\Projects\\Media\\MMAGlobalAPI\\MMAGlobalCleanArchitecture\\MMAGlobal.Core\\MMAGlobal.Core.csproj"
             },

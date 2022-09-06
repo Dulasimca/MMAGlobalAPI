@@ -16,3 +16,5 @@ E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MM
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGobal.Infrastructure\obj\Debug\net5.0\ref\MMAGlobal.Infrastructure.dll
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGobal.Infrastructure\obj\Debug\net5.0\MMAGlobal.Infrastructure.pdb
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGobal.Infrastructure\obj\Debug\net5.0\MMAGlobal.Infrastructure.genruntimeconfig.cache
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGobal.Infrastructure\bin\Debug\net5.0\MMAGlobal.CommonUtilities.dll
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGobal.Infrastructure\bin\Debug\net5.0\MMAGlobal.CommonUtilities.pdb

@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MMAGlobal.Application\MMAGlobal.Application.csproj" />
+    <ProjectReference Include="..\MMAGlobal.CommonUtilities\MMAGlobal.CommonUtilities.csproj" />
     <ProjectReference Include="..\MMAGlobal.Core\MMAGlobal.Core.csproj" />
     <ProjectReference Include="..\MMAGobal.Infrastructure\MMAGlobal.Infrastructure.csproj" />
   </ItemGroup>
