@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "h5bnJco8DZYH39MvJ+wuuFz8PUyTTTQJXgCYDI9nJ58pVMjtgTEsd+L4fcYScin0KiqJIJskIUVVxKzyU6q61A==",
+  "dgSpecHash": "HMq8tFeO3nVBOl3j9yKL7HiARFUo7YZdA2vS99J9Hec6Uk18ZqQEgSuStH9c+jlwISjGz25bvZOf+iXeZXMT0A==",
   "success": true,
   "projectFilePath": "E:\\TestandVerification\\Projects\\Media\\MMAGlobalAPI\\MMAGlobalCleanArchitecture\\MMAGlobal.CommonUtilities\\MMAGlobal.CommonUtilities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dulasiayya_4723\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.7\\microsoft.aspnetcore.authentication.jwtbearer.5.0.7.nupkg.sha512",
+    "C:\\Users\\Dulasiayya_4723\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dulasiayya_4723\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\Dulasiayya_4723\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\Dulasiayya_4723\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "C:\\Users\\Dulasiayya_4723\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "C:\\Users\\Dulasiayya_4723\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\Dulasiayya_4723\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Users\\Dulasiayya_4723\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

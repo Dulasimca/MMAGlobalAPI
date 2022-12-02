@@ -10,3 +10,6 @@ E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MM
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.CommonUtilities\obj\Debug\net5.0\MMAGlobal.CommonUtilities.dll
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.CommonUtilities\obj\Debug\net5.0\ref\MMAGlobal.CommonUtilities.dll
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.CommonUtilities\obj\Debug\net5.0\MMAGlobal.CommonUtilities.pdb
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.CommonUtilities\bin\Debug\net5.0\MMAGlobal.Core.dll
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.CommonUtilities\bin\Debug\net5.0\MMAGlobal.Core.pdb
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.CommonUtilities\obj\Debug\net5.0\MMAGlobal.CommonUtilities.csproj.CopyComplete

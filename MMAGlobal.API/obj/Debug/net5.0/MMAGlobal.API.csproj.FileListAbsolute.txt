@@ -28,7 +28,6 @@ E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MM
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
-E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.API\bin\Debug\net5.0\Newtonsoft.Json.dll
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -73,3 +72,4 @@ E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MM
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.API\bin\Debug\net5.0\MMAGlobal.Infrastructure.pdb
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.API\bin\Debug\net5.0\MMAGlobal.CommonUtilities.dll
 E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.API\bin\Debug\net5.0\MMAGlobal.CommonUtilities.pdb
+E:\TestandVerification\Projects\Media\MMAGlobalAPI\MMAGlobalCleanArchitecture\MMAGlobal.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

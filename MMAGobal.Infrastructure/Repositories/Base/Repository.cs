@@ -43,7 +43,7 @@ namespace MMAGlobal.Infrastructure.Repositories.Base
 
         public async Task UpdateAsync(T entity)
         {
-            await  _MMAGlobalTestContext.Set<T>().AddAsync(entity);
+            await _MMAGlobalTestContext.Set<T>().AddAsync(entity);
             _MMAGlobalTestContext.Entry(entity).State = EntityState.Modified;
             await _MMAGlobalTestContext.SaveChangesAsync();
         }

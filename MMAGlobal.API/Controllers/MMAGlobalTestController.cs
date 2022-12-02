@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using MMAGlobal.Application.Commands;
 using MMAGlobal.Application.Queries;
 using MMAGlobal.Application.Responses;
-
+using Microsoft.AspNetCore.Authorization;
 
 namespace MMAGlobal.API.Controllers
 {
@@ -22,13 +22,16 @@ namespace MMAGlobal.API.Controllers
             _mediator = mediator;
         }
 
-        [HttpGet]
+        [Authorize(AuthenticationSchemes = Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerDefaults.AuthenticationScheme)]
+        [HttpGet(nameof(Get))]
         [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<List<MMAGlobal.Core.Entity.MMAGlobalTestEntity>> Get()
         {
             return await _mediator.Send(new GetAllMMAGlobalTestQuery());
         }
-        [HttpPost]
+ 
+        [Authorize(AuthenticationSchemes = Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerDefaults.AuthenticationScheme)]
+        [HttpPost(nameof(CreateEmployee))]
         [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult<MMAGlobalTestResponse>> CreateEmployee([FromBody] CreateMMAGlobalTestCommands command)
         {
